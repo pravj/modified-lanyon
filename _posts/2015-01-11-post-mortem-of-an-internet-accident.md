@@ -50,7 +50,7 @@ I headed towards the *GitHub API* for it but found that they gives you the first
 So I moved to *GitHub Archive* finally and [downloaded a .csv file](https://github.com/pravj/Post-mortem/blob/master/bigquery.sql) of all the repositories with greater than equal to 500 stars. Now, I think it covers most of your *good and known projects*, happy now?
 
 I *Vimed* the .csv file and found that some URLs were missing the owner's name.
-![Vim-Screenshot]({{site.url}}/assets/post-mortem-of-an-internet-accident/vim-screenshot.png)
+![Vim-Screenshot]({{ site.url }}/assets/post-mortem-of-an-internet-accident/vim-screenshot.png)
 
 > **:g/https\:\/\/github\.com\/\//d**
 >
@@ -69,7 +69,7 @@ But when I came back from class in the evening, I saw that *postman* was done wi
 Once all the data is available, it's time to *rock 'n' roll*.
 
 Plotting the stars and languages distribution over all the repositories, we get this graph.
-![Stars-and-Language-distribution]({{site.url}}/assets/post-mortem-of-an-internet-accident/stars-and-languages.png)
+![Stars-and-Language-distribution]({{ site.url }}/assets/post-mortem-of-an-internet-accident/stars-and-languages.png)
 You can see that most of our good and known projects are in the bottom-left corner. Almost 90% of our repositories have less than 20,000 stars and 20 languages.
 
 There is only one repository with more than 40,000 stars, which is the [twbs/bootstrap](https://github.com/twbs/bootstrap).
@@ -117,7 +117,7 @@ Lets talk about something interesting I found in the data there.
 * Most of them are documentations, list of resources for a field.
 * For example [vhf/free-programming-books](https://github.com/vhf/free-programming-books), List of free learning resources.
 
-![Zero-Language-Repositories]({{site.url}}/assets/post-mortem-of-an-internet-accident/zero-language-repository.png)
+![Zero-Language-Repositories]({{ site.url }}/assets/post-mortem-of-an-internet-accident/zero-language-repository.png)
 > *subject to detection of the language by GitHub*
 
 *Along with the required dataset, I was also collecting the [logs](https://github.com/pravj/Post-mortem/blob/master/log/postman.log) data.
