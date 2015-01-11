@@ -58,15 +58,15 @@ I *Vimed* the .csv file and found that some URLs were missing the owner's name.
 
 If you're thinking that by removing lines, we won't consider these repositories then take a deep breath and don't think so, we will consider them, keep reading.
 
-Then I wrote a *Python module* to interact with the *GitHub API*, named it *postman*.
+Then I wrote a *Python module* to interact with the *GitHub API*, named it *[postman](https://github.com/pravj/Post-mortem/blob/master/postman.py)*.
 The *postman* uses *Authentication Token* from *GitHub* to prevent the *rate-limiting*.
 
-I don't how much did *postman* take in its task as I was attending my classes then.
+I don't know how much did *postman* take in its task as I was attending my classes then.
 But when I came back from class in the evening, I saw that *postman* was done with the task. *Wow, an obedient postman*.
 
 *Right now if you search in GitHub for repositories having 500 or more stars, you will see around 7,200 results. So we have been doing this right so far as GitHub Archive [don't have](http://git.io/78eKDg) all the data*.
 
-Once all the data is available, it's time to *rock 'n' roll*.
+Once all the data is available, it's time to *rock 'n' roll*. [Rstudio](rstudio.com) is always there to help us.
 
 Plotting the stars and languages distribution over all the repositories, we get this graph.
 ![Stars-and-Language-distribution]({{ site.url }}/assets/post-mortem-of-an-internet-accident/stars-and-languages.png)
