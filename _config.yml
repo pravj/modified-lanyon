@@ -1,0 +1,42 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# custom plugins
+plugins:          ./_plugins
+
+# Setup
+title:            Pravendra Singh
+tagline:          ': falling leaves'
+description:      'Developer · Explorer · Student'
+message:          'Each commit have its own story.'
+url:              http://pravj.github.io
+paginate:         1
+
+author:
+  name:           'Pravendra Singh'
+  email:          hackpravj@gmail.com
+
+# source of the 'modified-lanyon' theme
+github:
+  main:           https://github.com/pravj/modified-lanyon
+
+# contact details
+contact:
+  github:         https://github.com/pravj
+  twitter:        https://twitter.com/hackpravj
+  gmail:          mailto:hackpravj@gmail.com
+  quora:          http://quora.com/Pravendra-Singh-Rathore
+
+source:      .
+destination: ./_site
+
+timezone: Asia/Calcutta
+
+url: http://localhost:4000
+port: 4000
+host: 0.0.0.0
+baseurl: /
