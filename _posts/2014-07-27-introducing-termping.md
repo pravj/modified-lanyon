@@ -7,6 +7,7 @@ tags:
   - Game
   - Hack
   - Terminal
+permalink: /blog/introducing-termping/
 ---
 
 >```

@@ -7,6 +7,7 @@ tags:
   - Data
   - Python
   - R
+permalink: /blog/post-mortem-of-an-internet-accident/
 ---
 
 Hi scout, thanks for visiting this edge node of the Holy Internet; Before the combination *Internet Accident* confuse you, let me decode its meaning in the context of this post.
@@ -66,7 +67,7 @@ But when I came back from class in the evening, I saw that *postman* was done wi
 
 *Right now if you search in GitHub for repositories having 500 or more stars, you will see around 7,200 results. So we have been doing this right so far as GitHub Archive [don't have](http://git.io/78eKDg) all the data*.
 
-Once all the data is available, it's time to *rock 'n' roll*. [Rstudio](rstudio.com) is always there to help us.
+Once all the data is available, it's time to *rock 'n' roll*. [Rstudio](http://www.rstudio.com) is always there to help us.
 
 Plotting the stars and languages distribution over all the repositories, we get this graph.
 ![Stars-and-Language-distribution]({{ site.url }}/assets/post-mortem-of-an-internet-accident/stars-and-languages.png)

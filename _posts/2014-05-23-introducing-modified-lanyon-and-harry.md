@@ -6,6 +6,7 @@ tags:
   - Theme
   - Jekyll
   - Plugin
+permalink: /blog/introducing-modified-lanyon-and-harry-and-me/
 ---
 
 `probably you don't know me. ok, I'm telling you that.`

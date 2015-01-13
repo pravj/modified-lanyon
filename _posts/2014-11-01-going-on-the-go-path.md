@@ -6,6 +6,7 @@ tags:
   - Geo-pattern
   - GitHub
   - Open-Source
+permalink: /blog/going-on-the-go-path/
 ---
 
 > `Before I start the tell`
