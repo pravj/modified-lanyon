@@ -287,7 +287,7 @@ Maybe if we compare the "diff"erences between this file and the file from before
 
 Yeah! I do remember that the file *remember* was there in the branch *bug* as I wasted 10 minutes on it.
 
-I did ```git diff mouse tree -- remember``` to see the difference between these two files accross branches and the difference in the files was this one line :
+I did ```git diff mouse bug -- remember``` to see the difference between these two files accross branches and the difference in the files was this one line :
 
 ```
 -Sn The next clue is: YtrydjKsYqebDoI3h bTINUeV6 pTVY8jnK2re HRwwNy25Ps6 u0YChCo5Jtw N3xkH3G nx aGo6yQTW RVZMsf3xk tBL0sG9GAR HQbyGYdqs i6dx1fyIPGJVci
