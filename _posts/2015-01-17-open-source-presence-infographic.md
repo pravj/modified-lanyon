@@ -24,7 +24,7 @@ It's pretty biased though, because this report uses only one platform of the Ope
 
 ##Motive
 
-I think it was almost mid of the December last year when I saw the [interview](http://yourstory.com/2014/12/techie-tuesdays-amod-malviya-cto-flipkart/) of Flipkart's CTO *Amod Malviya* in a YourStory article. I started reading that and I kept reading till the end. At the end my reaction was, *wow! this man is awesome* and he is indeed. I have seen many of his talks after reading that interview.
+I think it was almost mid of the December last year when I saw the [interview](http://yourstory.com/2014/12/techie-tuesdays-amod-malviya-cto-flipkart/) of Flipkart's CTO *Amod Malviya* in a YourStory article. I started reading that and kept reading till the end. At the end my reaction was, *wow! this man is awesome* and he is indeed. I have seen many of his talks after reading that interview.
 
 That interview made a different impression on me. I liked his words where he was talking about building a top class internet infrastructure in India. I don't know what you people think of Flipkart, Myntra etc. but what I think is that they are evolving continuously, at least in the technical aspect. That's why they are in the marathon and Amazon itself is in the race with them. 
 
@@ -83,10 +83,10 @@ This plot shows *relative appearance* of selected organizations both in the publ
 
 > Add legend text in the image.
 
-* I didn't knew that Myntra was founded a bit earlier than Flipkart, who [aquired](http://timesofindia.indiatimes.com/tech/tech-news/Flipkart-acquires-Myntra/articleshow/35472797.cms) the older player recently.
+* I didn't know that Myntra was founded a bit earlier than Flipkart, who [aquired](http://timesofindia.indiatimes.com/tech/tech-news/Flipkart-acquires-Myntra/articleshow/35472797.cms) the older player recently.
 * Myntra and Flipkart came in existance before the GitHub itself.
 * We can see a large gap between apperance on these two portals for Flipkart, Myntra and Zomato, Myntra being the slowest one to join.
-* Some organizations like Instamojo, HackerEarth and HasGeek felt the time and took no significant time in this.
+* Some organizations like Instamojo, HackerEarth and HasGeek felt the need of time and took no significant time in this.
 
 Well! in case if you're thinking that this information is all chatter, let me present something interesting.
 
@@ -96,7 +96,7 @@ Yes! the GitHub organizations for these two were created before their public lau
 
 I can't say for Cucumbertown now but I can present a supporting theory to prove this for the HasGeek.
 
-Do you guys remeber what was the first event that HasGeek organised? It was [DocType HTML5](http://wiki.hasgeek.in/DocType_HTML5), you silly. The event was held on October, 2010 and HasGeek was pubilcally launched in December, 2010. You can fly to their GitHub account and check that they were developing [hasgeek/doctypehtml5](https://github.com/hasgeek/doctypehtml5) since then.
+Do you guys remeber what was the first event that HasGeek organised? It was [DocType HTML5](http://wiki.hasgeek.in/DocType_HTML5), you silly. The event was held on October, 2010 and HasGeek was pubilcally launched in December, 2010. You can fly to their GitHub account and check that they are developing [hasgeek/doctypehtml5](https://github.com/hasgeek/doctypehtml5) since then.
 
 Maybe organising this event was the inspiration behind launching the HasGeek, I need to hear HasGeek founder [Kiran](https://twitter.com/jackerhack)'s words on it, though.
 
@@ -182,7 +182,7 @@ This plot shows weekly commit activity of all the organizations. This is pretty 
 
 You can see a relatively more development activity in the start of the year.
 
-Flipkart development team [keeps](https://github.com/Flipkart/linux) a *fork* of the *linux*, it's not a *forked repo* though. I removed its activities because this was maing the plot even more cluttered. You can check [that plot]({{site.url}}/assets/ospi/commit-activity.png) also, though.
+Flipkart development team [keeps](https://github.com/Flipkart/linux) a *fork* of the *linux*, it's not a *forked repo* though. I removed its activities because this was making the plot even more cluttered. You can check [that plot]({{site.url}}/assets/ospi/commit-activity.png) also, though.
 
 ##4. Technology Stack
 
@@ -193,13 +193,13 @@ Different organization are working in different fields of the technology; be it 
 This section deals with use of different programming languages in the involved organizations's infrastructure.
 ![Language-Use]({{ site.url }}/assets/ospi/language-uses.png)
 
-This plot uses colours from GitHub's [linguist](https://github.com/linguist) for different programming languages.
+This plot uses colors from GitHub's [linguist](https://github.com/linguist) for different programming languages.
 
 This helps us understanding tech-stack of all the organizations.
 
 * Flipkart uses Java, HasGeek uses Python, Practo uses PHP and Freshdesk uses Ruby as their major programming language.
 * Organizations have started using *non-traditional* languages like Lua, Erlang and Scala etc.
-* ShepHertz uses maximum no. of programming languages(14), in their quest to all *in-demand* programming language in their service.
+* ShepHertz uses maximum no. of programming languages(14), in their quest to serve all *in-demand* programming language in their service.
 
 ###4.2. Field of work
 
@@ -210,7 +210,7 @@ Actually I wanted to have relative sharing in fields of working of all the organ
 
 So, initially, my plan was to use [Latent Dirichlet Allocation](http://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) on the *repository-description-text* corpus for *Topic Modeling*.
 
-Where I had use *concatenated repository descriptions* of organizations as a document but then I droped this idea because of asymmetrical repository distribution. It was resulting in a corpus of 14 documents only (Zomato excluded).
+Where I had use *concatenated repository descriptions* of organizations as a *document* but then I droped this idea because of asymmetrical repository distribution. It was resulting in a corpus of 14 documents only (Zomato excluded).
 
 You can have a brief knowledge about LDA, [here](http://blog.echen.me/2011/08/22/introduction-to-latent-dirichlet-allocation/).
 
