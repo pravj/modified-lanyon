@@ -107,3 +107,6 @@ Which is way more than other implementations, so the rate of collision is also l
 I made an organization for [Penticons](https://github.com/penticons); just to look cool, though. I think so.
 
 Last night, I wrote the [golang implementation](https://github.com/penticons/penticons.go) for *Penticons*. My friend [Nairitya](https://github.com/nkman) will be writing some more very soon, at-least he promised me. Let's see.
+
+*Avatar* for the organization is a penticon itself, of the word "Penticons".
+![avatar]({{site.url}}/assets/penticons/avatar.png)
