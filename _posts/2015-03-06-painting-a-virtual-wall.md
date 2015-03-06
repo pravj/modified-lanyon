@@ -76,7 +76,7 @@ This is what I have thought about. A wall painted by some children in their tiff
 
 This may sound like a dumb thing to work on, it's actually. It's just a combination of some *for* and *if-else* loops.
 
-But this is more than just dumb, now I feel releaved as I made it real what I have thought about, something like Aaron has said.
+But this is more than just dumb, now I feel relieved as I made it real what I have thought about, something like Aaron has said.
 
 ###Behind the scene
 
