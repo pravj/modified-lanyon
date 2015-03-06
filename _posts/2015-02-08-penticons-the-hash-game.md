@@ -3,6 +3,7 @@ layout: post
 title: Introducing Penticons &#58; The Hash Game
 tags:
   - Identicon
+  - golang
   - GitHub
   - Hash
   - Hack
