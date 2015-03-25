@@ -5,15 +5,12 @@ permalink: /about/
 ---
 
 <p class="message">
-  I just love push notifications..
+  I'll update it soon. On March 26's morning probably. Visit again. Promise?
 </p>
 
-* I'm a Computer Science student at Indian Institute of Technology, Roorkee.
-* I do some [random](https://github.com/pravj) things with 'keyboard' and a 'text-editor' and I love it.
-* I [listen](http://www.last.fm/user/pravj) jillion songs a day and literally sing* them all.
-* You can find [me](https://facebook.com/hackpravj) liking photos of even strangers in bulk, because I love it.
-* Sometimes I'm also lucky enough to [capture](http://instagram.com/pravj) moments.
-* And yeah I forgot, I walk in the middle of the roads.
+I'm a junior CS undergraduate at Indian Institute of Technology, Roorkee.
+
+I use the symbol `\o/` to rejoice. Remember the [Calvin demanding a euphoria?](http://bit.ly/calvin-euphoria)
 
 ---
 
