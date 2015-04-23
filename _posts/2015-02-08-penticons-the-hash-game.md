@@ -2,11 +2,11 @@
 layout: post
 title: Introducing Penticons &#58; The Hash Game
 tags:
-  - Identicon
+  - identicon
   - golang
-  - GitHub
-  - Hash
-  - Hack
+  - github
+  - hash
+  - hack
 permalink: /blog/penticons-the-hash-game/
 ---
 

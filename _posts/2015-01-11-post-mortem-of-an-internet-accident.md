@@ -2,10 +2,10 @@
 layout: post
 title: Post-mortem of an Internet Accident
 tags:
-  - GitHub
-  - Quora
-  - Data
-  - Python
+  - github
+  - quora
+  - data
+  - python
   - R
 permalink: /blog/post-mortem-of-an-internet-accident/
 ---

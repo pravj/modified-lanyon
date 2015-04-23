@@ -2,10 +2,10 @@
 layout: post
 title: introducing <b>modified</b> lanyon and harry and me
 tags:
-  - Lanyon
-  - Theme
-  - Jekyll
-  - Plugin
+  - lanyon
+  - theme
+  - jekyll
+  - plugin
 permalink: /blog/introducing-modified-lanyon-and-harry-and-me/
 ---
 

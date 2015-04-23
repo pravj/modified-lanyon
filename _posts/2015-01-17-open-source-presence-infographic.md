@@ -2,10 +2,10 @@
 layout: post
 title: Open Source Presence Infographic of Indian Startups
 tags:
-  - Open-Source
-  - Startup
-  - GitHub
-  - Data
+  - open-source
+  - startup
+  - github
+  - data
   - R
 permalink: /blog/open-source-presence-infographic/
 ---

@@ -3,10 +3,10 @@ layout: post
 title: termping &#58; &#9829; &#43; Node.js &#43; Streams &#43; CoffeeScript
 tags:
   - Node.js
-  - Coffeescript
-  - Game
-  - Hack
-  - Terminal
+  - CoffeeScript
+  - game
+  - hack
+  - terminal
 permalink: /blog/introducing-termping/
 ---
 

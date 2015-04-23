@@ -2,9 +2,9 @@
 layout: post
 title: Holy Aesthete &#58; painting a virtual wall
 tags:
-  - Image
+  - image
   - golang
-  - Hack
+  - hack
 permalink: /blog/painting-a-virtual-wall/
 ---
 

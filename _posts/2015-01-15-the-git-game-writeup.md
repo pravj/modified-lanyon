@@ -3,9 +3,9 @@ layout: post
 title: The git-game Write-up
 tags:
   - Git
-  - Game
-  - Writeup
-  - GitHub
+  - game
+  - writeup
+  - github
 permalink: /blog/the-git-game-write-up/
 ---
 

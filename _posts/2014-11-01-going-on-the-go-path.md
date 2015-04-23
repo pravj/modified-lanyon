@@ -2,10 +2,10 @@
 layout: post
 title: geo_pattern &#58; going on the Go path
 tags:
-  - Golang
-  - Geo-pattern
-  - GitHub
-  - Open-Source
+  - golang
+  - geopattern
+  - github
+  - open-source
 permalink: /blog/going-on-the-go-path/
 ---
 
