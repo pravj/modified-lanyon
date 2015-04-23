@@ -155,7 +155,7 @@ It's not in LaTeX, so the arXiv stamp is absent in PDF format there. They replie
 
 #Behind the scene
 
-I framed all this story for you, the trurh is something else.
+I framed all this story for you, the truth is something else.
 
 > Guess what? It's my exam-time again that made me write this.
 
